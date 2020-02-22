@@ -10,7 +10,7 @@
     "test:watch": "NODE_ENV=test jest --watchAll"
   },
   "dependencies": {
-    "@babel/core": "7.4.3",
+    "@babel/core": "7.8.4",
     "@fortawesome/fontawesome-free": "^5.9.0",
     "@svgr/webpack": "4.1.0",
     "@typescript-eslint/eslint-plugin": "1.6.0",
